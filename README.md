@@ -1,4 +1,6 @@
 ## About
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fequity.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fequity?ref=badge_shield)
+
 
 Welcome to the GitHub repository for the Series Seed Documents, a standardized set of legal documents that can be quickly and easily deployed for a seed investment round.  For more information on this release of the documents, please refer to the [Series Seed blog](http://www.seriesseed.com) or our [Release Notes](https://github.com/seriesseed/equity/blob/master/RELEASENOTES.md) here on GitHub.
 
@@ -9,6 +11,9 @@ We welcome contributions in the form of issues or pull requests. If you need hel
 ## License
 
 Series Seed is open sourced under [CC0] (http://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fequity.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fequity?ref=badge_large)
 
 #### Disclaimer
 
